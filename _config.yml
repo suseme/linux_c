@@ -1,3 +1,14 @@
-theme: jekyll-theme-modernist
-title: Linux C Function
-description: Linux C Function reference.
+title: "Linux C Function"
+email: vin@misday.com
+description: "Linux C Function reference."
+baseurl: ""
+url: ""
+
+# Build settings
+
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+show_downloads: false
+google_analytics: UA-28333273-1
